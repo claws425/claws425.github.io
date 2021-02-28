@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Now is the time for all good men to come to the aid of their country.
+
 You can use the [editor on GitHub](https://github.com/claws425/claws425.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
